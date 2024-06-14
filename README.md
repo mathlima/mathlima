@@ -11,17 +11,12 @@
 
 ## 🔭 Um pouco sobre mim:
 
-Atualmente estou trabalhando na área de infraestrutura de ferramentas de T.I e estou buscando desenvolver minhas habilidades em programação. Por mais opostas que sejam as áreas eu sempre tive um anseio em aprender mais sobre desenvolvimento e é por esse motivo que estou aqui.
+Atualmente estou trabalhando na área de infraestrutura de ferramentas de T.I e estou buscando desenvolver minhas habilidades em programação. Por mais opostas que sejam as áreas eu sempre tive um anseio em aprender mais sobre desenvolvimento e é por esse motivo que estou aqui. Este ano (2024) tomei uma decisão importante sobre minha carreira e decidi dar inicio em meus estudos na faculdade Anhangeura 🏛 no curso Analise e Desenvolvimento de Sistemas 🎓. Gosto de aprender e trabalhar em novas tecnologias para resolver problemas da vida real 💡.
+
 ## 🌱 Estou aprendendo
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
           
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+          
 
 
 <div>
